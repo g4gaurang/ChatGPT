@@ -4,9 +4,11 @@ This folder contains a clickable Salesforce Lightning-style prototype for the MT
 
 ## Public prototype links
 
-- Static render link: https://cdn.jsdelivr.net/gh/g4gaurang/ChatGPT@main/mtx-react-salesforce-prototype/index.html
+- Working browser-rendered prototype: https://raw.githack.com/g4gaurang/ChatGPT/main/mtx-react-salesforce-prototype/index.html
 - GitHub folder: https://github.com/g4gaurang/ChatGPT/tree/main/mtx-react-salesforce-prototype
 - GitHub Pages link, if Pages is enabled for this repo: https://g4gaurang.github.io/ChatGPT/mtx-react-salesforce-prototype/
+
+Note: jsDelivr serves the HTML file as source text for this use case, so use the RawGitHack link or enable GitHub Pages for a normal app experience.
 
 ## Included screens
 
